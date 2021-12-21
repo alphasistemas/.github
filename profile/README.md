@@ -23,3 +23,6 @@
  - Exemplo: `[OS 0123456] Cria formulário para devolução de compra`;
 13) O padrão adotado para a descrição da PR indica o que foi feito para a OS mais detalhadamente e indica alguns possíveis teste que podem ser feitos para aprovar a PR;
 14) Voltar ao passo [1](#fluxo-de-desenvolvimento);
+
+## [Drive](https://drive.google.com/drive/folders/189BioREeAycEjbd5Llr-9G79jthT5zOq)
+ - [Como usar o GIT](https://drive.google.com/drive/folders/10YxtwU9rvXXUVeU2qQHJGZ_ait4T4FFz)
