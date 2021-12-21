@@ -22,4 +22,4 @@
 12) O padrão adotado para o título da PR inicia com `[OS <numero-da-os>] O que foi feito para a os.`; 
  - Exemplo: `[OS 0123456] Cria formulário para devolução de compra`;
 13) O padrão adotado para a descrição da PR indica o que foi feito para a OS mais detalhadamente e indica alguns possíveis teste que podem ser feitos para aprovar a PR;
-14) Voltar ao passo [1](#step-1);
+14) Voltar ao passo [1](#fluxo-de-desenvolvimento);
