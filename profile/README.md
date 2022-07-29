@@ -25,7 +25,7 @@
 14) Voltar ao passo [1](#fluxo-de-desenvolvimento);
 
 ## [Drive](https://drive.google.com/drive/folders/189BioREeAycEjbd5Llr-9G79jthT5zOq)
- - [Como usar o GIT](https://drive.google.com/drive/folders/10YxtwU9rvXXUVeU2qQHJGZ_ait4T4FFz)
+ - [Como usar o GIT](https://drive.google.com/file/d/1QkW9Gt6X2eeZli2LXwaXLFYFxgQf40gk/view?usp=sharing)
 
 ## Padrão de Commits:
 
