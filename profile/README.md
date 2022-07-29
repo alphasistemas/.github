@@ -26,3 +26,9 @@
 
 ## [Drive](https://drive.google.com/drive/folders/189BioREeAycEjbd5Llr-9G79jthT5zOq)
  - [Como usar o GIT](https://drive.google.com/drive/folders/10YxtwU9rvXXUVeU2qQHJGZ_ait4T4FFz)
+
+## Padrão de Commits:
+
+### Conventional Commits
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Commitizen](https://commitizen-tools.github.io/commitizen/)
